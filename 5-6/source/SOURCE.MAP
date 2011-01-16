@@ -1,0 +1,9 @@
+
+ Start  Stop   Length Name               Class
+
+ 00000H 0001FH 00020H STACKSG            STACK
+ 00020H 0085EH 0083FH DATASG             DATA
+ 00860H 00A34H 001D5H CODESG             CODE
+
+Program entry point at 0086:0000
+
